@@ -1,5 +1,4 @@
 ## Machine Learning Engineering for Production
 
-Welcome to the public repo for [deeplearning.ai](https://www.deeplearning.ai/)'s Machine Learning Engineering for Production Specialization.
 
-Here you will find public resources for the courses of this specialization.
+I've taken interest in learning the MLOps best practices, so I've cloned the repo and followed along the Andrew NG's course available on coursera
